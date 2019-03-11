@@ -5,8 +5,7 @@ You can use the [editor on GitHub](https://github.com/adegbayi-adeosun25/github-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown file
 
-
-<a href="https://www.w3schools.com">Chapter 1</a>
+[Chapter 1](https://adegbayi-adeosun25.github.io/github-story-2019/chapter01)
 
 
 
