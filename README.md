@@ -11,7 +11,7 @@
 
 [Chapter 4]()
 
-The main story of the this page will contain 
+The main story of the this page will contain many chapters
 
 
 
@@ -19,8 +19,7 @@ The main story of the this page will contain
 
 
 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adegbayi-adeosun25/github-story-2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ [repository settings](https://github.com/adegbayi-adeosun25/github-story-2019/settings). `_config.yml` 
 
 
 
