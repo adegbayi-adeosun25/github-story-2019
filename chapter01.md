@@ -7,7 +7,14 @@ Bulleted list
 - Story
 
 
-My Story:
+
+My Story: The Beginning Of Greatness
+
+
+This is the story of how i made it to the point of success that i have achieved today, the story of how i reached my goals and aspirations. This story will guideline the trials and tribulations and obstacles i had to overcome to becoming the person i am today and obtaining all my achievments. This is the best story you will ever read.
+
+
+
 
 
 
