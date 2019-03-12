@@ -1,6 +1,6 @@
-## chapter 1
+## chapter 2
 
-welcome to chapter 1
+welcome to chapter 2
 
 Bulleted list
 
