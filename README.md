@@ -17,6 +17,8 @@ All  chapters have been added.
 
 
 Chapter 1 completed.
+Chapter 2 completed.
+Chapter 3 completed.
 
 Created gitignore file.
 
