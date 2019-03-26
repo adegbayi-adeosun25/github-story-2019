@@ -38,8 +38,6 @@ Updated
 
 
 
-
-
  [repository settings](https://github.com/adegbayi-adeosun25/github-story-2019/settings). `_config.yml` 
 
 
