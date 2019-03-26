@@ -24,8 +24,10 @@ Completed the chapter
 links:
 
 [Chapter 1](chapter01.md)
+<br>
 
 [Chapter 2](chapter02.md)
+<br>
 
 [Chapter 3](chapter03.md)
 
