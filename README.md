@@ -1,15 +1,18 @@
 ## Welcome to the Main Page
 
+##Beginning of Greatness in Spring
 
-# All the Chapters
+## All the Chapters
 
-[Chapter 1](https://adegbayi-adeosun25.github.io/github-story-2019/chapter01.html)
+[Chapter 1](chapter01.md)
+<br>
 
-[Chapter 2]()
+[Chapter 2](chapter02.md)
+<br>
 
-[chapter 3]()
+[Chapter 3](chapter03.md)
 
-[Chapter 4]()
+[Chapter 4](chapter04.md)
 
 The main story of the this page will contain many chapters
 
