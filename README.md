@@ -37,8 +37,7 @@ Created gitignore file.
 Updated
 
 
-Alternative ending
-
+Alternative ending complete
 
 
  [repository settings](https://github.com/adegbayi-adeosun25/github-story-2019/settings). `_config.yml` 
