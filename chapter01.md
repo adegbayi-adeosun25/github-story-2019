@@ -18,7 +18,6 @@ Completed the chapter
 
 
 
-
 links:
 
 [Chapter 1](chapter01.md)
