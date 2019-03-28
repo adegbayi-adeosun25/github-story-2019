@@ -14,7 +14,6 @@ I went  to school in Dublin, the school I went to was cbs lucan, this school had
 
 
 
-
 links:
 
 [Chapter 1](chapter01.md)

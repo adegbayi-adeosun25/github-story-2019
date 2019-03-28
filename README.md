@@ -1,6 +1,6 @@
 ## Welcome to the Main Page
 
-##Beginning of Greatness in Spring
+###Beginning of Greatness in Spring
 
 ## All the Chapters
 
