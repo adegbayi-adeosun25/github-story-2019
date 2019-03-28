@@ -1,10 +1,7 @@
 ## Welcome to the Main Page
 
 
-
-## All the Chapters
-
-#Beginning of Greatness in Spring
+##Beginning of Greatness in Spring
 
 [Chapter 1](chapter01.md)
 <br>
